@@ -1,5 +1,5 @@
 
-def collect(array)
+def my_collect(array)
   i = 0;
   collect = [];
   while index<array.length 
